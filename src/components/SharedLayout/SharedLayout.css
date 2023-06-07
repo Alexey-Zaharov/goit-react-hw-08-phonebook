@@ -1,0 +1,12 @@
+.container {
+  padding: 30px 20px 30px 20px;
+}
+
+.header {
+  display: flex;
+  height: 70px;
+  background-color: aliceblue;
+  border-bottom: 3px solid black;
+  border-radius: 4px;
+  margin-bottom: 50px;
+}

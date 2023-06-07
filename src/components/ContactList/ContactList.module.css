@@ -1,0 +1,9 @@
+.contactLiscContainer {
+  padding: 10px;
+}
+
+.List {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,9 @@
+.Navigation {
+  display: flex;
+  align-items: center;
+}
+
+.NavigationList {
+  display: flex;
+  gap: 20px;
+}
