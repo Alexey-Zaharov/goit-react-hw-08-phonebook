@@ -71,7 +71,7 @@ export const register = createAsyncThunk(
       );
       return response.data;
     } catch (error) {
-      return thunkAPI.rejectWithValue(error.message);
+      return thunkAPI.rejectWithValue(window.alert(error.message));
     }
   }
 );

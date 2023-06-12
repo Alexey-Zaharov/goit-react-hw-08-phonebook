@@ -4,9 +4,15 @@
 
 .header {
   display: flex;
+  align-items: center;
   height: 70px;
   background-color: aliceblue;
   border-bottom: 3px solid black;
-  border-radius: 4px;
   margin-bottom: 50px;
+}
+
+.title {
+  display: block;
+  position: absolute;
+  right: 45%;
 }
